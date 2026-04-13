@@ -1,0 +1,33 @@
+# Environnement Python
+env/
+venv/
+.venv/
+*.egg-info/
+.eggs/
+
+# Cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données lourdes (UPFD se retélécharge avec data_loader.py)
+data/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Secrets (si un jour tu ajoutes des clés)
+.env
+.env.local
+
+# Matplotlib cache (optionnel)
+.matplotlib/

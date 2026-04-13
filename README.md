@@ -134,12 +134,5 @@ Dépendent de la graine, du matériel et des hyperparamètres.
 
 Ce dépôt est sous [**PolyForm Noncommercial 1.0.0**](https://polyformproject.org/licenses/noncommercial/1.0.0/) : voir [`LICENSE`](LICENSE).
 
-En résumé : tu peux **consulter, utiliser et modifier** le code pour des usages **non commerciaux** (apprentissage, recherche personnelle, projets de loisir, usage par une école ou une asso, etc.). En revanche, **aucun droit n’est accordé** pour en faire un **produit**, un **service payant** ou le cœur d’une **entreprise / start-up** sans ton accord écrit. Les copies doivent **conserver l’avis de copyright** et les termes de la licence.
-
-Ce n’est pas un avis juridique ; pour un usage pro ou une reprise commerciale, il faut te contacter. Adapte les lignes *Copyright* / *Required Notice* dans `LICENSE` si ton nom ou ton dépôt GitHub diffère.
-
 ---
 
-## Fichiers à ne pas versionner (Git)
-
-Ajoute un `.gitignore` pour : `env/`, `venv/`, `__pycache__/`, `data/UPFD/`, caches, etc.

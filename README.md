@@ -1,5 +1,7 @@
 # Détection Algorithmique de Désinformation par les Graphes (XAI)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fakenewsgraphxai-efszqkiiftvbbvoylzvzgw.streamlit.app)
+
 Ce projet propose une approche pour contrer la désinformation sur les réseaux sociaux. Face à l’essor des IA génératives qui rendent l’analyse textuelle (NLP) fragile et facile à tromper, ce modèle se concentre exclusivement sur la **topologie de diffusion** (la forme géométrique du réseau) pour différencier une propagation organique d’une attaque coordonnée par des bots (astroturfing).
 
 ![Comparaison de graphes de propagation : organique (Real) vs désinformation (Fake), UPFD](comparaison_graphes.png)
